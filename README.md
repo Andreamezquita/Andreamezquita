@@ -32,11 +32,15 @@ Here are some ideas to get you started:
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Soy Ingeniera Industrial Administrador de profesión y recientemente concluí un bootcamp intensivo de análisis de datos. Me apasiona transformar datos en estrategias con propósito. Estoy convencida de que la tecnología puede ser una herramienta poderosa para generar impacto social y ambiental. 
+Soy Ingeniera Industrial Administrador de profesión y recientemente concluí un bootcamp intensivo de análisis de datos. Me apasiona utilizar los datos como motor de cambio, aportando soluciones con impacto social y estratégico. Estoy convencida de que la tecnología puede ser una herramienta poderosa para generar impacto social y ambiental. 
 
 🎯 Mi enfoque profesional está orientado a aportar valor medible a través de los datos. Busco crecer como analista en entornos colaborativos, donde se valoren la mejora continua, el pensamiento analítico y la capacidad de comunicar hallazgos de forma efectiva.
 
 🛠️ Actualmente me encuentro desarrollando mi portafolio de proyectos y aprendiendo cada día para convertirme en una profesional integral en el ámbito del análisis de datos.<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🌱 Actualmente me encuentro en formación continua, estudiando 📚 y practicando 💻 SQL y Python para análisis de datos.
+- ❤️ Me apasiona contribuir al análisis de datos con propósito, buscando generar valor e impacto en proyectos significativos.
+- 🚧 En este momento estoy en una etapa de aprendizaje activo, fortaleciendo habilidades técnicas y analíticas para colaborar en soluciones que marquen la diferencia.
 
 ---
 
