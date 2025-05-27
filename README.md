@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -->
 
 <div id="header" align="center">
@@ -36,8 +37,7 @@ Soy Ingeniera Industrial Administrador de profesión y recientemente concluí un
 
 🎯 Mi enfoque profesional está orientado a aportar valor medible a través de los datos. Busco crecer como analista en entornos colaborativos, donde se valoren la mejora continua, el pensamiento analítico y la capacidad de comunicar hallazgos de forma efectiva.
 
-🛠️ Actualmente me encuentro desarrollando mi portafolio de proyectos y aprendiendo cada día para convertirme en una profesional integral en el ámbito del análisis de datos.<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+- 🛠️ Estoy desarrollando mi portafolio de proyectos como parte de mi proceso formativo.
 - 🌱 Actualmente me encuentro en formación continua, estudiando 📚 y practicando 💻 SQL y Python para análisis de datos.
 - ❤️ Me apasiona contribuir al análisis de datos con propósito, buscando generar valor e impacto en proyectos significativos.
 - 🚧 En este momento estoy en una etapa de aprendizaje activo, fortaleciendo habilidades técnicas y analíticas para colaborar en soluciones que marquen la diferencia.
