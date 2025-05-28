@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Andreamezquita/Andreamezquita/blob/main/Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/Andreamezquita/Andreamezquita/blob/main/LinkedIn%20banner.png" width="800"/>
   
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Andreamezquita) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.mzg21@gmail.com) [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156559813?si=6e008060af2443fa) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andreamezquita)
   
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
 
-  ![](https://komarev.com/ghpvc/?username=Andreamezquita&abbreviated=true&color=77608a)
+  ![](https://komarev.com/ghpvc/?username=Andreamezquita&abbreviated=true&color=c7799b)
   
 <h1>
     Hola soy Andrea ¡Encantada de conocerte!
